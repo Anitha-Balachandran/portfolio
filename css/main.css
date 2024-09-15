@@ -1537,7 +1537,7 @@ input[type=text],
     font-size: 16px;
     position: relative;
     text-align: center;
-    background-color: rgb(170, 170, 170, 0.5);
+    background-color: #22896b;
     color: white;
     font-weight: 400;
 }
